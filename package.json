@@ -1,0 +1,10 @@
+{
+  "name": "my-awesome-project",
+  "version": "1.0.0",
+  "scripts": {
+    "preinstall": "echo '🚀 Starting the installation process... hold tight!'"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
